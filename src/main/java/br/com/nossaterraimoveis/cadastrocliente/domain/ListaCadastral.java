@@ -1,0 +1,74 @@
+package br.com.nossaterraimoveis.cadastrocliente.domain;
+
+public class ListaCadastral {
+	
+private String nomeCompleto;
+private int dataNascimento;
+private int cpf;
+private int rg;
+private EstadoCivil estadoCivil;
+private String profissao;
+private int rendaMensal;
+private Fumante fumante;
+private int quantidadeDeFilhos;
+private int telefoneCliente;
+private String emailCliente;
+private String ultimoEndereco;
+private int numeroEndereco;
+private String bairro;
+private String cidade;
+private String filiacaoPai;
+private int telefonePai;
+private String filiacaoMae;
+private int telefoneMae;
+private String nomeConjunge;
+private String profissaoDConjunge;
+private int rendaMensalDConjunge;
+private int telefoneConjunge;
+private int rgConjunge;
+private int cpfConjunge;
+private int dataNascimentoConjunge;
+private int emailConjunge;
+private BichoEstimacao bichoEstimacao;
+private String especie;
+private int quantosPets;
+private String empresa;
+private int cnpj;
+private String enderecoDaEmpresa;
+private int numeroDoEnderecoEmpresa;
+private String bairroDaEmpresa;
+private String cidadeDaEmpresa;
+private int periodoNaEmpresa;
+private int telefoneDaEmpresa;
+private String emailEmpresa;
+private String enderecoDeBens;
+private int numeroDoEnderecoDoBen;
+private String bairroDoBen;
+private String cidadeDoBen;
+private String matriculaDoBen;
+private PossuiOnus possuiOnus;
+private String automovel;
+private int anoModelo;
+private int placa;
+private OnusAutomovel onusAutomovel;
+private String nomeDofamiliar;
+private String enderecoDoFamiliar;
+private int numeroDoEnderecoDoFamiliar;
+private String bairroDoFamilar;
+private String cidadeDoFamiliar;
+private int telefoneDoFamiliar;
+private String nomeDofamiliar2;
+private String enderecoDoFamiliar2;
+private int numeroDoEnderecoDoFamiliar2;
+private String bairroDoFamilar2;
+private String cidadeDoFamiliar2;
+private int telefoneDoFamiliar2;
+private String enderecoDoUltimoImovelResidente;
+private int numeroDoEnderecoDoUltimoImovelResidente;
+private String bairroDoUltimoImovelResidente;
+private String cidadeDoUltimoImovelResidente;
+private String nomeDoProprietario;
+private int tempoDeContrato ;
+
+
+} 

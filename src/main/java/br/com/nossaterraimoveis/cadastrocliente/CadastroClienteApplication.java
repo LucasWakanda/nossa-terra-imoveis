@@ -18,5 +18,4 @@ public class CadastroClienteApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CadastroClienteApplication.class, args);
 	}
-
 }
